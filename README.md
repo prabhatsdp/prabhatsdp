@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Android App Developerl)" title="Prabhat Pandey"/>](https://prabhatpandey.dev/)
+[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Android App Developerl)" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.dev/)
 
 ### 👋 Hi, I am Prabhat Pandey
 
