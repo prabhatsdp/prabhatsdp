@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=prabhatsdp.prabhatsdp&color=00df00)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=prabhatsdp.prabhatsdp&color=00df00) -->
 
-𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
