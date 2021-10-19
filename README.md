@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Android App Developerl)" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.dev/)
 
 # 👋 Hi, I am Prabhat Pandey
-Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally design ✏️ apps for Android platform. I have been doing Android application development for more than two years now as a freelancer.
+Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally design ✏️ apps for Android platform. I have been doing Android application development for more than two years now as a freelancer.<br/><br/>
 My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable and maintainable apps that provide the best digital experience to the users.
 
 - 🔭 I’m currently working as Freelance Android Developer
