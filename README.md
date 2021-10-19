@@ -7,7 +7,7 @@ My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable a
 - 🔭 I’m currently working as Freelance Android Developer
 - 🌱 I’m currently learning 📚 Data Structures & Algorithms
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [WhatsApp](https://wa.me/7651894906) | [FaceBook](https://facebook.com/prabhatsdp) | [LinkedIn](https://www.linkedin.com/in/prabhatsdp/) | [Twitter](https://twitter.com/prabhatsdp) | [Email](mailto: prabhatsdp@gmail.com)
+- 📫 How to reach me: [WhatsApp](https://wa.me/7651894906) | [FaceBook](https://facebook.com/prabhatsdp) | [LinkedIn](https://www.linkedin.com/in/prabhatsdp/) | [Twitter](https://twitter.com/prabhatsdp) | Email: prabhatsdp@gmail.com
 
 <!--
 **prabhatsdp/prabhatsdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
