@@ -4,7 +4,7 @@
 Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally designing ✏️ apps for Android platform. I have been doing Android Development for more than two years now as a freelancer.<br/><br/>
 My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable and maintainable apps that provide the best digital experience to the users.
 
-- 🔭 I’m currently working as a Freelance Android Developer
+- 🔭 I’m currently working as an Associate Consultant - Development (Android) in Oodles Technologies
 - 🌱 I’m currently learning 📚 Data Structures & Algorithms
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [WhatsApp](https://wa.me/917651894906) | [FaceBook](https://facebook.com/prabhatsdp) | [LinkedIn](https://www.linkedin.com/in/prabhatsdp/) | [Twitter](https://twitter.com/prabhatsdp) | prabhatsdp@gmail.com
