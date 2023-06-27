@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=prabhatsdp.prabhatsdp&color=00df00)
+![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=radical)
 
