@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color="#07122c)
+![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color="07122c)
 
