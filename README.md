@@ -1,8 +1,8 @@
 [<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Android App Developerl)" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.dev/)
 
 # 👋 Hi, I am Prabhat Pandey
-Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally designing ✏️ apps for Android platform. I have been working as an Android Developer at Oodles Technologies for past one year. Before that, I have worked as a Freelance Android Developer for more than two years.<br/><br/>
-My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable and maintainable apps that provide the best digital experience to the users.
+Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally designing ✏️ apps for the Android platform. I have been working as an Android Developer at Oodles Technologies for the past 1.5 years. Before that, I worked as a Freelance Android Developer for more than two years.<br/><br/>
+My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable, and maintainable apps that provide the best digital experience to the users.
 
 - 🔭 I’m currently working as a Sr. Associate Consultant - Development (Android) at Oodles Technologies
 - 🌱 I’m currently learning 📚 Data Structures & Algorithms and Design Patterns
@@ -52,7 +52,7 @@ June 2019 - December 2021
 
 ### DG Jewellers Android App 🔗 <br>
 *DG Jewellers*
-- An Android app to showcase jewelry to customers where customers can select a piece of jewelry and place the order offline.
+- An Android app to showcase jewelry items to customers where customers can select a piece of jewelry and place the order offline.
 - Tech stack includes Firebase, Glide, Kotlin, MVVM, etc.
 
 ---
@@ -84,8 +84,8 @@ June 2019 - December 2021
 
 ## 🌐 Languages
 
-- English - Fluent
-- Hindi - Native
+- **English** - Fluent
+- **Hindi** - Native
 
 ## My GitHub Stats
 
