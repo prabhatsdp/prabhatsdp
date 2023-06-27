@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9&border_radius=20&icon_color=1ce39d)
+![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9&border_radius=20&icon_color=1ce39d)  
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsdp&langs_count=8&theme=radical&layout=compact) | 
 
