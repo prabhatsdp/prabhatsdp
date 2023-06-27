@@ -9,20 +9,7 @@ My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable a
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [WhatsApp](https://wa.me/917651894906) | [FaceBook](https://facebook.com/prabhatsdp) | [LinkedIn](https://www.linkedin.com/in/prabhatsdp/) | [Twitter](https://twitter.com/prabhatsdp) | prabhatsdp@gmail.com
 
-<!--
-**prabhatsdp/prabhatsdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
-![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9&border_radius=20&icon_color=1ce39d)  
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsdp&langs_count=8&theme=radical&layout=compact) | 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsdp&langs_count=4&theme=theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9&border_radius=20&icon_color=1ce39d&layout=donut) ![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9&border_radius=20&icon_color=1ce39d) 
+--------------------------------------------------------------------
 
