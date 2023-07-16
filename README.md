@@ -35,11 +35,11 @@ June 2019 - December 2021
   - Successfully integrated push notifications into apps, bolstering user engagement.
 
 ---
-
+<!--
 ## 🚀 Projects
 
 ### Pandojo Android App 🔗 <br>
-*Pandolab*
+<*Pandolab*>
 - A Live Streaming Android app where users can stream live from the device camera and upload videos, as well as live chat with viewers.
 - Features include Crypto payments with Metamask and in-app subscriptions using Google’s In-App Billing.
 - Tech stack includes Kotlin with Coroutines and MVVM architecture, Retrofit, Exoplayer, Ant Media, Glide, Metamask, Socket.io, etc.
@@ -56,6 +56,7 @@ June 2019 - December 2021
 - Tech stack includes Firebase, Glide, Kotlin, MVVM, etc.
 
 ---
+-->
 
 ## 🛠️ Skills
 
