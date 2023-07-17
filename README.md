@@ -14,17 +14,14 @@ My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable, 
 
 - **Sr. Android Developer** <br>
 Oodles Technologies - Gurugram <br>
-July 2022 - Present
-  - Optimized apps by reducing crashes and ANRs and made the app 100% crash-free.
-  - Coordinated with the team regarding essential decisions and offered timely issue resolution.
+December 2021 - Present
+  - Got promoted within a 6-month for outstanding performance and significant contributions to project success.
+  - Utilized Jetpack libraries to integrate Android features such as Navigation component, Room database, Hilt, and ViewBinding, resulting in a 20% faster development.
   - Integrated auto-renewable subscriptions in apps using Google’s In-App payments from scratch.
   - Implemented one-to-many live streaming and live chat features using third-party WebRTC SDK.
-
-- **Android Developer**<br>
-Oodles Technologies - Gurugram<br>
-December 2021 - June 2022
+  - Optimized apps by reducing crashes and ANRs and achieved 100% crash-free status.
+  - Led the entire app development lifecycle, from concept and design to development, testing, and deployment.
   - Incorporated offline storage, performance tuning, and multi-threading into apps.
-  - Used Jetpack libraries to integrate the latest Android features, including the Navigation component, Room database, Hilt, and ViewBinding.
 
 - **Android Developer** <br>
 Freelancer - Remote <br>
@@ -35,28 +32,19 @@ June 2019 - December 2021
   - Successfully integrated push notifications into apps, bolstering user engagement.
 
 ---
-<!--
 ## 🚀 Projects
 
-### Pandojo Android App 🔗 <br>
-<*Pandolab*>
-- A Live Streaming Android app where users can stream live from the device camera and upload videos, as well as live chat with viewers.
-- Features include Crypto payments with Metamask and in-app subscriptions using Google’s In-App Billing.
-- Tech stack includes Kotlin with Coroutines and MVVM architecture, Retrofit, Exoplayer, Ant Media, Glide, Metamask, Socket.io, etc.
+### [Kharcha Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.kharcha) 🔗 <br>
+- An Android app using Room Database, Google Sign In, ExcelSheet export, and Work Manager. 
+- Features include income and expense tracking, budget management, visual expense analysis through charts and graphs,
+time-based expense analysis, secure data backup to Google Drive, auto-recurring backups, and seamless data
+import/export to Excel.
 
-### TutorX Android App <br>
-*Pandolab*
-- An Online Tuition Android App for students to watch live classes of teachers and interact with teachers via Live chat and raise hand functionality.
-- Features include in-app purchases, Live classes, and recorded sessions.
-- Tech stack includes Kotlin, MVVM, Retrofit for REST API consumption, Glide for Image loading, Exoplayer for video playback, Ant Media for Live streaming, WebSockets for live chat and raise a hand, etc.
-
-### DG Jewellers Android App 🔗 <br>
-*DG Jewellers*
+### [DG Jewellers Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.dgjewellers) 🔗 <br>
 - An Android app to showcase jewelry items to customers where customers can select a piece of jewelry and place the order offline.
 - Tech stack includes Firebase, Glide, Kotlin, MVVM, etc.
 
 ---
--->
 
 ## 🛠️ Skills
 
@@ -72,8 +60,8 @@ June 2019 - December 2021
 
 ## 📚 Certifications
 
-- Become an Android Developer from Scratch - Udemy (April 2019)
-- The Complete App Design Course - UX, UI, and Design Thinking - Udemy (April 2019)
+- [Become an Android Developer from Scratch](https://www.udemy.com/certificate/UC-V4YNOQA5/) - Udemy (April 2019)
+- [The Complete App Design Course - UX, UI, and Design Thinking](https://www.udemy.com/certificate/UC-DLD3NDNL/) - Udemy (April 2019)
 
 ---
 
