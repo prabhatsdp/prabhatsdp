@@ -1,7 +1,7 @@
-[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Android App Developerl)" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.dev/)
+[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Android App Developerl)" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.com/)
 
 # 👋 Hi, I am Prabhat Pandey
-Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally designing ✏️ apps for the Android platform. I have been working as an Android Developer at Oodles Technologies for the past 1.5 years. Before that, I worked as a Freelance Android Developer for more than two years.<br/><br/>
+Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally designing ✏️ apps for the Android platform. I have been working as an Android Developer at Oodles Technologies for the past 2+ years. Before that, I worked as a Freelance Android Developer for more than two years.<br/><br/>
 My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable, and maintainable apps that provide the best digital experience to the users.
 
 - 🔭 I’m currently working as a Sr. Associate Consultant - Development (Android) at Oodles Technologies
@@ -9,6 +9,35 @@ My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable, 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [WhatsApp](https://wa.me/917651894906) | [FaceBook](https://facebook.com/prabhatsdp) | [LinkedIn](https://www.linkedin.com/in/prabhatsdp/) | [Twitter](https://twitter.com/prabhatsdp) | prabhatsdp@gmail.com
 
+
+---
+## 🚀 Projects
+
+
+- ### [Kharcha Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.kharcha) 🔗 <br>
+  - An Android app using Room Database, Google Sign In, ExcelSheet export, and Work Manager. 
+  - Features include income and expense tracking, budget management, visual expense analysis through charts and graphs,
+  time-based expense analysis, secure data backup to Google Drive, auto-recurring backups, and seamless data
+  import/export to Excel.
+
+- ### FiatPe Business App [Android](https://play.google.com/store/apps/details?id=com.fiatpe.business) & [iOS](https://apps.apple.com/in/app/fiatpe-for-business/id6467030298) 🔗 <br>
+
+  - Easily record financial transactions for a clear record of income and expenses.
+
+  - Set and monitor budgets for different expense categories to control spending and achieve financial goals.
+
+  - Utilize pie charts and graphs to visually analyze spending patterns, with category-wise and account-wise expense breakdowns.
+
+  - Tech Stack: Flutter Framework, BLoC Pattern, Clean Architecture, WebSockets for real-time communication.
+
+  - Ensure data safety with automatic backups to your Google Drive, seamless data import/export, and recurring backup features for peace of mind.
+
+
+- ### [DG Jewellers Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.dgjewellers) 🔗 <br>
+  - An Android app to showcase jewelry items to customers where customers can select a piece of jewelry and place the order offline.
+  - Tech stack includes Firebase, Glide, Kotlin, MVVM, etc.
+
+---
 
 ## 💼 Work Experience
 
@@ -30,21 +59,6 @@ June 2019 - December 2021
   - Employed third-party APIs to facilitate seamless access to external, in-app cloud data.
   - Designed useful application features that utilized gyroscopes, accelerometers, and other sensors.
   - Successfully integrated push notifications into apps, bolstering user engagement.
-
----
-## 🚀 Projects
-
-### [Kharcha Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.kharcha) 🔗 <br>
-- An Android app using Room Database, Google Sign In, ExcelSheet export, and Work Manager. 
-- Features include income and expense tracking, budget management, visual expense analysis through charts and graphs,
-time-based expense analysis, secure data backup to Google Drive, auto-recurring backups, and seamless data
-import/export to Excel.
-
-### [DG Jewellers Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.dgjewellers) 🔗 <br>
-- An Android app to showcase jewelry items to customers where customers can select a piece of jewelry and place the order offline.
-- Tech stack includes Firebase, Glide, Kotlin, MVVM, etc.
-
----
 
 ## 🛠️ Skills
 
