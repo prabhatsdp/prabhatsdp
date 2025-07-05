@@ -1,50 +1,31 @@
-[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Android App Developerl)" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.com/)
+[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/3f4612b597a603573c215ab3b54e38ad944b7e19/assets/banner.svg" alt="👋 Prabhat Pandey | Mobile Engineer" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.com/)
 
-# 👋 Hi, I am Prabhat Pandey
-Hello 👋, my name is Prabhat Pandey and I am a self-taught 📚 Android App Developer. I love developing 👨‍💻 and occasionally designing ✏️ apps for the Android platform. I have been working as an Android Developer at Oodles Technologies for the past 2+ years. Before that, I worked as a Freelance Android Developer for more than two years.<br/><br/>
-My main focus is to build fast 🚀, reliable ✔️, secure 🛡️, scalable, and maintainable apps that provide the best digital experience to the users.
+# 👋 Hi, I’m Prabhat Pandey
 
-- 🔭 I’m currently working as a Sr. Associate Consultant - Development (Android) at Oodles Technologies
-- 🌱 I’m currently learning 📚 Data Structures & Algorithms and Design Patterns
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: [WhatsApp](https://wa.me/917651894906) | [FaceBook](https://facebook.com/prabhatsdp) | [LinkedIn](https://www.linkedin.com/in/prabhatsdp/) | [Twitter](https://twitter.com/prabhatsdp) | prabhatsdp@gmail.com
+I’m a **Lead Mobile Engineer** at [FiatPe](https://fiatpe.com), a fintech company offering innovative **payment solutions for businesses and merchants**.  
 
+With **around 6 years of experience** in Android and cross-platform development, I craft **fast 🚀, reliable ✔️, secure 🛡️, scalable, and maintainable mobile apps** that deliver delightful digital experiences.  
 
----
-## 🚀 Projects
+I rose through the ranks at Oodles Technologies — starting as **Associate Consultant - Android**, earning multiple promotions, and ultimately leading as **Lead Mobile Developer**, before moving to FiatPe.  
 
-
-- ### [Kharcha Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.kharcha) 🔗 <br>
-  - An Android app using Room Database, Google Sign In, ExcelSheet export, and Work Manager. 
-  - Features include income and expense tracking, budget management, visual expense analysis through charts and graphs,
-  time-based expense analysis, secure data backup to Google Drive, auto-recurring backups, and seamless data
-  import/export to Excel.
-
-- ### FiatPe Business App [Android](https://play.google.com/store/apps/details?id=com.fiatpe.business) & [iOS](https://apps.apple.com/in/app/fiatpe-for-business/id6467030298) 🔗 <br>
-
-  - Easily record financial transactions for a clear record of income and expenses.
-
-  - Set and monitor budgets for different expense categories to control spending and achieve financial goals.
-
-  - Utilize pie charts and graphs to visually analyze spending patterns, with category-wise and account-wise expense breakdowns.
-
-  - Tech Stack: Flutter Framework, BLoC Pattern, Clean Architecture, WebSockets for real-time communication.
-
-  - Ensure data safety with automatic backups to your Google Drive, seamless data import/export, and recurring backup features for peace of mind.
-
-
-- ### [DG Jewellers Android App](https://play.google.com/store/apps/details?id=dev.prabhatpandey.dgjewellers) 🔗 <br>
-  - An Android app to showcase jewelry items to customers where customers can select a piece of jewelry and place the order offline.
-  - Tech stack includes Firebase, Glide, Kotlin, MVVM, etc.
+At FiatPe, I build **Mobile Apps, POS Apps, and Mobile Payment SDKs**, working hands-on with **Kotlin, Flutter, Jetpack Compose**, and more.
 
 ---
 
 ## 💼 Work Experience
 
-- **Sr. Android Developer** <br>
-Oodles Technologies - Gurugram <br>
-December 2021 - Present
-  - Got promoted within a 6-month for outstanding performance and significant contributions to project success.
+### 🎯 **Tech Lead - Mobile**  
+**FiatPe - Mumbai** - Hybrid  <br>
+June, 2025 – Present
+
+- Architect, develop, and maintain **Mobile apps, POS apps, and mobile payment SDKs**.
+- Hands-on coding in **Kotlin, Flutter, Jetpack Compose**, with a focus on clean architecture and performance.
+- Collaborate with cross-functional teams to deliver secure and scalable payment experiences.
+
+### 📈 **Lead Android Developer**  
+**Oodles Technologies – Gurugram** - Remote  <br>
+Dec, 2021 – June, 2025
+  - Progressed from Associate Consultant to Lead Android Developer through consistent high-impact delivery.
   - Utilized Jetpack libraries to integrate Android features such as Navigation component, Room database, Hilt, and ViewBinding, resulting in a 20% faster development.
   - Integrated auto-renewable subscriptions in apps using Google’s In-App payments from scratch.
   - Implemented one-to-many live streaming and live chat features using third-party WebRTC SDK.
@@ -52,46 +33,84 @@ December 2021 - Present
   - Led the entire app development lifecycle, from concept and design to development, testing, and deployment.
   - Incorporated offline storage, performance tuning, and multi-threading into apps.
 
-- **Android Developer** <br>
-Freelancer - Remote <br>
-June 2019 - December 2021
+### 🧪 **Freelance Android Developer**
+**Freelance** - Remote  <br>
+June, 2019 – Dec, 2021
   - Created Android applications using Java and Kotlin and used Git to handle version control.
   - Employed third-party APIs to facilitate seamless access to external, in-app cloud data.
   - Designed useful application features that utilized gyroscopes, accelerometers, and other sensors.
   - Successfully integrated push notifications into apps, bolstering user engagement.
 
+---
+
+## 🚀 Featured Projects
+
+### [Kharcha – Budget Tracker](https://play.google.com/store/apps/details?id=dev.prabhatpandey.kharcha)  
+A personal finance Android app with **budgeting, analytics, and secure backup**.
+- **Features**: Income & expense tracking, Excel export/import, Google Drive backups, charts & insights.
+- **Tech Stack**: Kotlin, Room, WorkManager, MVVM, Google Sign-In.
+
+---
+
+### FiatPe Business App – [Android](https://play.google.com/store/apps/details?id=com.fiatpe.business) | [iOS](https://apps.apple.com/in/app/fiatpe-for-business/id6467030298)
+A trusted fintech companion for businesses, offering **secure, seamless digital payment solutions** across India.  
+- Accept payments via UPI, POS devices, and soundbox-enabled transactions with ease.  
+- Manage stores, update profiles & KYC, and track settlements through a user-friendly interface.  
+- **Tech Stack**: Flutter, BLoC, WebSockets, Clean Architecture.
+---
+
+### [DG Jewellers](https://play.google.com/store/apps/details?id=dev.prabhatpandey.dgjewellers)  
+An e-catalogue Android app for jewellery businesses with offline order placement.
+- **Tech Stack**: Kotlin, MVVM, Firebase, Glide.
+
+---
+
 ## 🛠️ Skills
 
-**Languages & Frameworks**: Kotlin, Jetpack Compose, Java, JavaScript, Dart, Flutter, HTML, CSS.
+### 📱 Mobile Development
+- **Languages & Frameworks**: Kotlin, Flutter, Java, Dart, Jetpack Compose, Kotlin Multiplatform (KMP)
+- **Architectures**: MVVM, Clean Architecture, BLoC
+- **Core Android**: Room, Coroutines, Hilt/Dagger, WorkManager, Retrofit, Firebase, WebSockets, ExoPlayer
+- **Features**: In-App Payments, Crypto Payments (MetaMask), Live Streaming (WebRTC), Notifications, OTT Apps, Payment SDKs, Google Ad Manager, ExoPlayer
+- **Additional**: JavaScript, HTML, CSS, ReactJS
 
-**Android Skills**: MVVM, Clean Architecture, Coroutines, Room Database, Dagger/Hilt, Unit Testing, Broadcast Receivers, Content Providers, Navigation Components, Intents and Services, Work Manager, Push Notifications, Retrofit, Glide, Picasso, ExoPlayer, In-App Payments, MetaMask crypto payments, WebSockets, Firebase.
+### 👨‍💻 Tools & Platforms
+- Android Studio, IntelliJ, VS Code, Git, Jira, Trello
 
-**Softwares**: Android Studio, IntelliJ, Git, Visual Studio Code, Jira, Trello.
-
-**Soft Skills**: Problem-Solving, Teamwork, Communication, Adaptability, and Time Management.
+### 🧠 Soft Skills
+- Leadership, Problem Solving, Communication, Team Collaboration, Time Management
 
 ---
 
 ## 📚 Certifications
 
-- [Become an Android Developer from Scratch](https://www.udemy.com/certificate/UC-V4YNOQA5/) - Udemy (April 2019)
-- [The Complete App Design Course - UX, UI, and Design Thinking](https://www.udemy.com/certificate/UC-DLD3NDNL/) - Udemy (April 2019)
+- [Android Development from Scratch](https://www.udemy.com/certificate/UC-V4YNOQA5/) – Udemy
+- [Complete App Design – UX, UI & Design Thinking](https://www.udemy.com/certificate/UC-DLD3NDNL/) – Udemy
 
 ---
 
 ## 🎓 Education
 
-- Post Graduate Diploma in Computer Application - Punjab Technical University, Jalandhar (2011-2012)
+🎓 Post Graduate Diploma in Computer Application - Punjab Technical University, Jalandhar
 
 ---
 
-## 🌐 Languages
+## 🌎 Languages
 
-- **English** - Fluent
-- **Hindi** - Native
+- **English** – Fluent
+- **Hindi** – Native
 
-## My GitHub Stats
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsdp&langs_count=4&theme=theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9&border_radius=20&icon_color=1ce39d&layout=donut) ![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9&border_radius=20&icon_color=1ce39d) 
---------------------------------------------------------------------
+## 📫 Connect with Me
+
+[WhatsApp](https://wa.me/917651894906) | [LinkedIn](https://www.linkedin.com/in/prabhatsdp/) | [Twitter](https://twitter.com/prabhatsdp) | [Facebook](https://facebook.com/prabhatsdp) | 📧 prabhatsdp@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsdp&layout=donut&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9)
+
+-------------------
 
