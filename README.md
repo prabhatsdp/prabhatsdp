@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/refs/heads/main/assets/prabhat_pandey_github_top_header.png" alt="👋 Prabhat Pandey | Mobile Engineer" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.com/)
+[<img src="https://raw.githubusercontent.com/prabhatsdp/prabhatsdp/a975d3f7e2d4857c2125fed276ac936d83817283/assets/git_header_prabhat.svg" alt="👋 Prabhat Pandey | Mobile Engineer" title="Prabhat Pandey" width="100%"/>](https://prabhatpandey.com/)
 
 # 👋 Hi, I’m Prabhat Pandey
 
