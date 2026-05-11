@@ -85,7 +85,13 @@ My freelance journey gave me hands-on experience with real client needs, tight t
 
 ## 🚀 Featured Projects
 
-### [Kharcha - Budget Tracker](https://play.google.com/store/apps/details?id=dev.prabhatpandey.kharcha)
+### Kharcha - Budget Tracker
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=dev.prabhatpandey.kharcha">
+    <img src="https://img.shields.io/badge/Google_Play-01875F?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+</p>
 
 A personal finance Android app designed to help users track expenses, manage budgets, view insights, and securely back up their data.
 
@@ -102,8 +108,16 @@ A personal finance Android app designed to help users track expenses, manage bud
 
 ---
 
-### FiatPe Business App  
-[Android](https://play.google.com/store/apps/details?id=com.fiatpe.business) | [iOS](https://apps.apple.com/in/app/fiatpe-for-business/id6467030298)
+### FiatPe Business App
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.fiatpe.business">
+    <img src="https://img.shields.io/badge/Google_Play-01875F?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+  <a href="https://apps.apple.com/in/app/fiatpe-for-business/id6467030298">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
+  </a>
+</p>
 
 A fintech app that helps merchants accept payments, manage business operations, track settlements, update profiles, and work with FiatPe’s digital payment ecosystem.
 
@@ -123,79 +137,78 @@ A fintech app that helps merchants accept payments, manage business operations, 
 ## 🛠️ Skills
 
 ### 📱 Mobile Development
-
 #### Languages & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
+  <img src="https://img.shields.io/badge/Kotlin-1E1B4B?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-0F172A?style=for-the-badge&logo=jetpack-compose&logoColor=4285F4" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-1E1B4B?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin Multiplatform" />
 </p>
 
 #### Architecture & Patterns
 
 <p>
-  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-6C63FF?style=for-the-badge" alt="Repository Pattern" />
-  <img src="https://img.shields.io/badge/Modular_Architecture-34495E?style=for-the-badge" alt="Modular Architecture" />
+  <img src="https://img.shields.io/badge/MVVM-0F172A?style=for-the-badge&logoColor=38BDF8" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/BLoC-0F172A?style=for-the-badge&logo=flutter&logoColor=13B9FD" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-1E1B4B?style=for-the-badge&logoColor=A78BFA" alt="Repository Pattern" />
+  <img src="https://img.shields.io/badge/Modular_Architecture-111827?style=for-the-badge&logoColor=white" alt="Modular Architecture" />
 </p>
 
 #### Android & Mobile Core
 
 <p>
-  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
-  <img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Hilt" />
-  <img src="https://img.shields.io/badge/Dagger-2196F3?style=for-the-badge" alt="Dagger" />
-  <img src="https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="WorkManager" />
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Room-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Room" />
+  <img src="https://img.shields.io/badge/Coroutines-1E1B4B?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Coroutines" />
+  <img src="https://img.shields.io/badge/Hilt-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Dagger-111827?style=for-the-badge&logoColor=60A5FA" alt="Dagger" />
+  <img src="https://img.shields.io/badge/WorkManager-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84" alt="WorkManager" />
+  <img src="https://img.shields.io/badge/Retrofit-0F172A?style=for-the-badge&logo=square&logoColor=48B983" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/ExoPlayer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="ExoPlayer" />
+  <img src="https://img.shields.io/badge/ExoPlayer-0F172A?style=for-the-badge&logo=google&logoColor=4285F4" alt="ExoPlayer" />
 </p>
 
 #### Product Features
 
 <p>
-  <img src="https://img.shields.io/badge/In--App_Payments-00C853?style=for-the-badge&logo=google-play&logoColor=white" alt="In-App Payments" />
-  <img src="https://img.shields.io/badge/Payment_SDKs-1565C0?style=for-the-badge&logo=google-pay&logoColor=white" alt="Payment SDKs" />
-  <img src="https://img.shields.io/badge/POS_Integrations-455A64?style=for-the-badge" alt="POS Integrations" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/Live_Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Live Streaming" />
-  <img src="https://img.shields.io/badge/Notifications-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Notifications" />
-  <img src="https://img.shields.io/badge/OTT_Apps-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="OTT Apps" />
-  <img src="https://img.shields.io/badge/Google_Ad_Manager-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ad Manager" />
-  <img src="https://img.shields.io/badge/Offline_Storage-795548?style=for-the-badge&logo=sqlite&logoColor=white" alt="Offline Storage" />
+  <img src="https://img.shields.io/badge/In--App_Payments-0F172A?style=for-the-badge&logo=google-play&logoColor=34A853" alt="In-App Payments" />
+  <img src="https://img.shields.io/badge/Payment_SDKs-0F172A?style=for-the-badge&logo=google-pay&logoColor=4285F4" alt="Payment SDKs" />
+  <img src="https://img.shields.io/badge/POS_Integrations-111827?style=for-the-badge&logoColor=CBD5E1" alt="POS Integrations" />
+  <img src="https://img.shields.io/badge/WebRTC-111827?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Live_Streaming-111827?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Live Streaming" />
+  <img src="https://img.shields.io/badge/Notifications-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Notifications" />
+  <img src="https://img.shields.io/badge/OTT_Apps-111827?style=for-the-badge&logo=netflix&logoColor=E50914" alt="OTT Apps" />
+  <img src="https://img.shields.io/badge/Google_Ad_Manager-0F172A?style=for-the-badge&logo=googleads&logoColor=4285F4" alt="Google Ad Manager" />
+  <img src="https://img.shields.io/badge/Offline_Storage-111827?style=for-the-badge&logo=sqlite&logoColor=60A5FA" alt="Offline Storage" />
 </p>
 
 #### Cross-platform & Web Basics
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/KMP-1E1B4B?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin Multiplatform" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1F2937?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/ReactJS-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
 </p>
 
 ### 👨‍💻 Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Console" />
-  <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store Connect" />
+  <img src="https://img.shields.io/badge/Android_Studio-0F172A?style=for-the-badge&logo=android-studio&logoColor=3DDC84" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Jira-0F172A?style=for-the-badge&logo=jira&logoColor=2684FF" alt="Jira" />
+  <img src="https://img.shields.io/badge/Trello-0F172A?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
+  <img src="https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google_Play_Console-0F172A?style=for-the-badge&logo=google-play&logoColor=34A853" alt="Google Play Console" />
+  <img src="https://img.shields.io/badge/App_Store_Connect-0F172A?style=for-the-badge&logo=app-store&logoColor=0D96F6" alt="App Store Connect" />
 </p>
 ---
 
