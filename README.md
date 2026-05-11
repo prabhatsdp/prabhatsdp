@@ -238,13 +238,6 @@ Punjab Technical University, Jalandhar
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatsdp&layout=donut&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhatsdp&show_icons=true&theme=tokyonight&bg_color=07122c&title_color=1ce39d&text_color=d9e0f9&border_color=d9e0f9)
-
----
 
 ## 💡 Engineering Philosophy
 
